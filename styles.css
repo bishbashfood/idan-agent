@@ -79,13 +79,11 @@ font-family: 'Montserrat-Light'
   padding: 7% 15%;
 background-color: #318fb5;
 color: #fff;
-text-align: center;
 
 }
 
 .carousel-item{
-  width: 50%;
-  margin-left: 25%;
+    padding: 7% 15%;
 }
 
 #press{
