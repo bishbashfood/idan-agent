@@ -96,3 +96,10 @@ color: #fff;
   width: 15%;
   margin: 20px 20px 50px;
 }
+#footer{
+  text-align: center;
+    background-color: #318fb5;
+}
+.footers{
+  color: white;
+}
