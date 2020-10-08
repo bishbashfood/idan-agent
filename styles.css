@@ -75,17 +75,23 @@ font-family: 'Montserrat-Light'
 .icon:hover{
   color: #0f4c75;
 }
-#carouselExampleControls{
-  padding: 7% 15%;
-background-color: #318fb5;
-color: #fff;
 
+#testimonials{
+background-color:  #318fb5;
+color: #fff;
+text-align: center;
 }
 
 .carousel-item{
     padding: 7% 15%;
 }
 
+.testimonial-image{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+
+}
 #press{
   background-color: #318fb5;
   text-align: center;
